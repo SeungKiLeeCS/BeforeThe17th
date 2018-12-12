@@ -2,7 +2,7 @@
 
 Basic Tumblr Image Scrapper in Python
 
-> "Because Tumblr is Missing and E"  
+> "Because Tumblr is Missing an E"  
 > Narcolle the Wise
 
 ## Motivation
