@@ -6,12 +6,12 @@ Basic Tumblr Image Scrapper in Python
 > Narcolle the Wise
 
 ## Motivation
-I wrote this program for fun after hearing about Tumblr's decision to make itself obsolete on the Dec 17th, 2018.  
+I wrote this program for fun after hearing about Tumblr's decision to make itself obsolete on Dec 17th, 2018.  
 With inspiration from my friend Narcolle, I decided to write a program that could be used to save your memories before Tumblr commits business suicide. 
 
-While some people have good understanding of technology, I assume Tumblr's decision will affect variety of people, even the ones who do not have deep understanding of how programming work. 
+While some people have good understanding of technology, I assume Tumblr's decision will affect variety of people, even the ones who do not have deep understanding of how programming works. 
 
-My Goal is to create a program that everyone can use relatively easy. As I said, **this program is written for one Narcolle, and for every single one of the digital nomads seeking refuge out there.**
+My Goal is to create a program that everyone can use relatively easily. As I said, **this program is written for one Narcolle, and for every single one of the digital nomads seeking refuge out there.**
 
 ## Requirement
 
