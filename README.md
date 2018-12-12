@@ -5,20 +5,25 @@
 This is a Tumblr Image Scrapper. 
 
 ## Motivation
-I wrote this program for fun after hearing about Tumblr's decision to make itself obsolete on the Dec 17th, 2018. With inspiration from my friend Narcolle, I decided to write a program that could be used to save your memories before Tumblr commits business suicide. While my friends have good understanding of technology, I assume Tumblr's decision will affect variety of people, even the ones who do not have vast knowledge in how programming work. My Goal is to create a program that everyone can use relatively easy. As I said, **this program is written for one Narcolle, and for every single one of the digital nomads seeking refuge out there.**
+I wrote this program for fun after hearing about Tumblr's decision to make itself obsolete on the Dec 17th, 2018.  
+With inspiration from my friend Narcolle, I decided to write a program that could be used to save your memories before Tumblr commits business suicide. 
+
+While some people have good understanding of technology, I assume Tumblr's decision will affect variety of people, even the ones who do not have deep understanding of how programming work. 
+
+My Goal is to create a program that everyone can use relatively easy. As I said, **this program is written for one Narcolle, and for every single one of the digital nomads seeking refuge out there.**
 
 ## Requirement
 
-1. Be able to scrape highest quality image with unique urls.
-2. Be able to take tumblr tag as input.
-3. Be able to use without Registering the app the OAuth.
-4. Show Progress of where you are so you're not fraustrated.
-5. Be usable for everyday Joe.
+1. Be able to scrape highest quality image with unique urls.  
+2. Be able to take tumblr tag as input.  
+3. Be able to use without Registering the app the OAuth.  
+4. Show Progress of where you are so you're not fraustrated.  
+5. Be usable for everyday Joe.  
 
 **Stretch Goals**  
-5. Write simple GUI
-6. Re-write code in elixir
-7. Find a way to automate and change name
+5. Write simple GUI  
+6. Re-write code in elixir  
+7. Find a way to automate and change name  
 
 ## Instructions
 
