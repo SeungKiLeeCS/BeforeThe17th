@@ -1,8 +1,9 @@
 # E-xtraction
+
+Basic Tumblr Image Scrapper in Python
+
 > "Because Tumblr is Missing and E"  
 > Narcolle the Wise
-
-This is a Tumblr Image Scrapper. 
 
 ## Motivation
 I wrote this program for fun after hearing about Tumblr's decision to make itself obsolete on the Dec 17th, 2018.  
