@@ -38,7 +38,7 @@ My Goal is to create a program that everyone can use relatively easily. As I sai
 
 ### Running .exe Executable (Windows Only)
 1. Download the `E-xtraction.zip`
-2. Go into dist/E-xtraction directory and run `E-xtraction.exe`
+2. Go into /E-xtraction directory and run `E-xtraction.exe`
 3. Enter your Tumblr tag. For instance, if your blog address is https://jeansatsu.tumblr.com, please enter `jeansatsu`.
 4. Your images will be saved in downloads/tumblr-{YOUR TAG} directory.
 
