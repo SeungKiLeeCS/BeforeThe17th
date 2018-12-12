@@ -20,7 +20,8 @@ My Goal is to create a program that everyone can use relatively easy. As I said,
 4. Show Progress of where you are so you're not fraustrated.  
 5. Be usable for everyday Joe.  
 
-**Stretch Goals**  
+## Stretch Goals
+
 5. Write simple GUI  
 6. Re-write code in elixir  
 7. Find a way to automate and change name  
