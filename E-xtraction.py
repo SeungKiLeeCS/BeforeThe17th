@@ -19,7 +19,8 @@ from bs4 import BeautifulSoup as bs
 def mke(name):
     print("\n")
     os.chdir("../")
-    os.mkdir("downloads")
+    if not os.path.exists("downloads"):
+        os.mkdir("downloads")
     os.chdir("downloads")
     # Create target Directory if don't exist
     if not os.path.exists(name):
@@ -83,7 +84,7 @@ def main():
     # Calculate how many loops you would need to get the whole posts
     num_loop = total_posts // 50
 
-    print("You have total of ", total_posts, ". This will take ", num_loop,
+    print("You have total of ", total_posts, " posts. This will take ", num_loop,
           " sessions to complete. Allow me to analyze the time required.\n")
     if total_posts < 500:
         print("Post Numbers Small: This will be done in no time. Stare at the screen.\n")
