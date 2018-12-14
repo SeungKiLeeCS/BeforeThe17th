@@ -32,7 +32,7 @@ My Goal is to create a program that everyone can use relatively easily. As I sai
 ### Running .py Script
 0. Make sure Python is installed.
 1. Download .py file and place it in a folder. Make sure this directory has enough storage for **ALL** of your contents.
-2. Open cmd or terminal, and run `python E-xtraction_script.py` or `python3 E-xtraction_script.py`
+2. Open cmd or terminal, and run `python E-xtraction.py` or `python3 E-xtraction.py`
 3. Enter your Tumblr tag. For instance, if your blog address is https://jeansatsu.tumblr.com, please enter `jeansatsu`.
 4. Your images will be saved in ../downloads/tumblr-{YOUR TAG} directory.
 
